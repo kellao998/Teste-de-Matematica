@@ -1,0 +1,10 @@
+C:\Users\Aluno\Desktop\info 09 c#\projetoTeste\projetoTeste\bin\Debug\projetoTeste.exe.config
+C:\Users\Aluno\Desktop\info 09 c#\projetoTeste\projetoTeste\bin\Debug\projetoTeste.exe
+C:\Users\Aluno\Desktop\info 09 c#\projetoTeste\projetoTeste\bin\Debug\projetoTeste.pdb
+C:\Users\Aluno\Desktop\info 09 c#\projetoTeste\projetoTeste\obj\Debug\projetoTeste.csproj.AssemblyReference.cache
+C:\Users\Aluno\Desktop\info 09 c#\projetoTeste\projetoTeste\obj\Debug\projetoTeste.Form1.resources
+C:\Users\Aluno\Desktop\info 09 c#\projetoTeste\projetoTeste\obj\Debug\projetoTeste.Properties.Resources.resources
+C:\Users\Aluno\Desktop\info 09 c#\projetoTeste\projetoTeste\obj\Debug\projetoTeste.csproj.GenerateResource.cache
+C:\Users\Aluno\Desktop\info 09 c#\projetoTeste\projetoTeste\obj\Debug\projetoTeste.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\info 09 c#\projetoTeste\projetoTeste\obj\Debug\projetoTeste.exe
+C:\Users\Aluno\Desktop\info 09 c#\projetoTeste\projetoTeste\obj\Debug\projetoTeste.pdb
